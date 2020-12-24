@@ -1,8 +1,10 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm IRFAN ADI
 <p align="center">
-
+##<img src="https://k.top4top.io/p_1819wo8fl1.jpg" width="29px">
+<p align="center">
+  
 ### WARNING
-MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
+MAU RE-UPLOAD SCRIPT? KASIH NAMA/INSTAGRAM SAYA
 
 ## NOTE:> 
 SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
