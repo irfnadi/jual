@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm IRFAN ADI
 <p align="center">
-##<img src="https://k.top4top.io/p_1819wo8fl1.jpg" width="29px">
+<img src="https://k.top4top.io/p_1819wo8fl1.jpg" width="200px">
 <p align="center">
   
 ### WARNING
