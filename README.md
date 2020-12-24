@@ -2,8 +2,8 @@
 <p align="center">
 <img src="https://k.top4top.io/p_1819wo8fl1.jpg" width="200px">
 <p align="center">
-<embed src="https://c.top4top.io/p_1746kc5an0.png&autoplay=1" type="application/x-shockwave-flash"wmode="transparent" width="1" height="1">
-</embed>
+<embed src="https://c.top4top.io/p_1746kc5an0.png&autoplay=1" width="1" height="1">
+<p align="center">
   
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/INSTAGRAM SAYA
